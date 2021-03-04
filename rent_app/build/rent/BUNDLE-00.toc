@@ -1,0 +1,1 @@
+([('rent', '/Users/drew/Desktop/dist/rent', 'EXECUTABLE')],)
